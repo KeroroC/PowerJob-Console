@@ -2,7 +2,7 @@
 node_modules/
 dist/
 npm-debug.log
-
+package-lock.json
 
 HELP.md
 target/
@@ -40,4 +40,3 @@ build/
 *.jar
 *.log
 */.DS_Store
-.DS_Store
